@@ -6,7 +6,7 @@ This repository demonstrates how to serve a read-only SQLite database as an API 
 
 - `index.html`: Entry point of the application.
 - `script.js`: Contains the logic to load the SQLite database and serve API requests.
-- `users_database_with_index.sqlite`: SQLite database file with a `users` table and an index on the `name` column.
+- `data.sqlite`: SQLite database file with a `users` table and an index on the `name` column.
 
 ## Usage
 
